@@ -16,8 +16,8 @@
 <div>
   <h1 align=center> Hi, I'm bluel1ly :v: </h1>
   <p> Currently absorbed by back-end development with a focus on algorithmic implementations and cybersecurity </p>
-
 </div>
+
 <br>
 
 <div>
@@ -33,5 +33,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>&nbsp;
 </div>
+
+<br>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluel1ly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluel1ly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
