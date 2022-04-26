@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="leetcode.com">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FImmaculate_Conception&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fbluel1ly&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
     </a>
   </div>
 </div>
