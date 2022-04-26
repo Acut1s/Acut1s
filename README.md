@@ -12,11 +12,14 @@
     </a>
   </div>
 </div>
+<br>
+<div>
+  <h1 align=center> Hi, I'm bluel1ly :v: </h1>
+  <p> Currently absorbed by back-end development with a focus on algorithmic implementations and cybersecurity </p>
 
+</div>
+<br>
 
-
-
-### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="50" height="50"/>&nbsp;  
