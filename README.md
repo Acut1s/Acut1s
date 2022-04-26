@@ -15,7 +15,7 @@
 <br>
 <div>
   <h1 align=center> Hi, I'm bluel1ly :v: </h1>
-  <p> Currently absorbed by back-end development with a focus on algorithmic implementations and cybersecurity </p>
+  <p> Currently absorbed by <strong>back-end development</strong> with a focus on <strong>algorithmic implementations</strong> and <strong>cybersecurity</strong> </p>
 </div>
 
 <br>
