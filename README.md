@@ -36,8 +36,8 @@
 
 <br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=bluel1ly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluel1ly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Actu1s&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acut1sl1ly&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
